@@ -24,8 +24,15 @@
 
 .container {
   min-height: 100vh;
+  margin:auto;
 }
 
 .selected{
   background-color: chocolate;
+
+}
+
+.tshirtDesign{
+  text-align: center;
+ margin-bottom: 40px;
 }
